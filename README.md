@@ -37,7 +37,7 @@
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
-<a href="https://www.linkedin.com/in/karmankar-s-5b73ba192/">
+<a href="https://www.linkedin.com/in/saurabh-k-5b73ba192/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <a href="mailto:saurabhkarmankar590@gmail.com">
