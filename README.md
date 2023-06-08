@@ -2,7 +2,26 @@
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/karmankar-s-5b73ba192/"> SAURABH KARMANKAR </a></h1>
 <!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha_07) !!  -->
 
-![1579270413-soft-skills](https://user-images.githubusercontent.com/70636541/211205392-af9f82f0-139a-427c-bcdf-01e129ef4636.png)
+```
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = "MERN Stack & Android 📚"
+        self.currently_working_on = "Flutter 🌱"
+        self.excited_for = "Internt of Things 🌎"
+    
+    def contact_me(self):
+        self.email = "gauravpandey495@gmail.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
+ ```
 
 
 <h3 align="center">A Student & Aspiring Developer</h3>
