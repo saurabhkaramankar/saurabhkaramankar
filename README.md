@@ -2,7 +2,7 @@
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/karmankar-s-5b73ba192/"> SAURABH KARMANKAR </a></h1>
 <!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha_07) !!  -->
 
-```
+```python
 from life import Creativity
 
 class Life(Creativity):
@@ -11,12 +11,12 @@ class Life(Creativity):
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "MERN Stack & Android 📚"
-        self.currently_working_on = "Flutter 🌱"
-        self.excited_for = "Internt of Things 🌎"
+        self.currently_learning = "MERN Stack "
+        self.currently_working_on = "Freelance Work + Projects. 🌱"
+        self.excited_for = "Artificial Intelligence 🌎"
     
     def contact_me(self):
-        self.email = "gauravpandey495@gmail.com"
+        self.email = "saurabhkarmankar590@gmail.com"
  
 if '__repo__' == '__helpful__':
     star.it()
@@ -86,6 +86,8 @@ if '__repo__' == '__helpful__':
   </p>
 <br>
 <hr/>
+
+
 
 ## Stats 📈 
 <details>
