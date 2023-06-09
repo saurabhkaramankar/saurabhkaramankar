@@ -53,6 +53,17 @@ if '__repo__' == '__helpful__':
 
 
 <br/>
+
+```sql
+SELECT ALL tasks ORDER BY importance
+
+SELECT * FROM 'moments' WHICH 'invokes joy'
+
+SELECT * FROM Memories m INNER JOIN Positivity p ON m.positivity = p.id
+```
+
+---
+
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
